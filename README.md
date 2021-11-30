@@ -18,12 +18,12 @@
 - Jasmine
 - Protactor
 # Features
-As a user i can login to the magic bus app
-As a User i can see all the buses available
-As a user i can book a particular bus 
-As a user i can update my trip
-As a user i can delete my trip
-As a user i can logout 
+- As a user i can login to the magic bus app
+- As a User i can see all the buses available
+- As a user i can book a particular bus 
+- As a user i can update my trip
+- As a user i can delete my trip
+- As a user i can logout 
 # To Do List
 Create a Drop Down Menu Instead of having users type all their information.
 # Getting Started
